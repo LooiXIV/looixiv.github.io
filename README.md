@@ -25,6 +25,6 @@ Homewood Suites by Hilton Ithaca ([booking](http://www.guestreservations.com/hom
 Courtyard by Marriot Ithaca ([booking](https://www.reservations.com/hotel/courtyard-by-marriott-ithaca-lansing?rmcid=dsa&gclid=EAIaIQobChMI6fby3djX3wIVAVuGCh3hhQRAEAAYAiAAEgJw5_D_BwE); [directions](https://www.google.com/maps/dir/Courtyard+by+Marriott+Ithaca+Airport%2FUniversity,+29+Thornwood+Dr,+Ithaca,+NY+14850/Statler+Dr,+Ithaca,+NY+14853/@42.4651982,-76.4803918,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89d0827e6a873b99:0x89578d38567d9039!2m2!1d-76.4652659!2d42.4833222!1m5!1m1!1s0x89d0818b734b4fbf:0x19e517804b10dd40!2m2!1d-76.4815864!2d42.4458011!3e0))
 
 ## Interesting Places to Visit!
-[Buttermilk Falls](https://parks.ny.gov/parks/151/details.aspx)
-[Taughannock falls](https://parks.ny.gov/parks/62/details.aspx)
+[Buttermilk Falls](https://parks.ny.gov/parks/151/details.aspx)  
+[Taughannock falls](https://parks.ny.gov/parks/62/details.aspx)  
 [Treman State Park](https://parks.ny.gov/parks/135/details.aspx)
