@@ -27,4 +27,4 @@ Courtyard by Marriot Ithaca ([booking](https://www.reservations.com/hotel/courty
 ## Interesting Places to Visit!
 [Buttermilk Falls](https://parks.ny.gov/parks/151/details.aspx)  
 [Taughannock falls](https://parks.ny.gov/parks/62/details.aspx)  
-[Treman State Park](https://parks.ny.gov/parks/135/details.aspx)
+[Treman State Park](https://parks.ny.gov/parks/135/details.aspx)  
