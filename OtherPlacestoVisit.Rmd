@@ -1,0 +1,12 @@
+---
+title: "Other Places to Visit in and Around Ithaca"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+## State Parks
+### Less than 10 min outside Down town Ithaca
+[Buttermilk Falls](https://parks.ny.gov/parks/151/details.aspx)  
+[Taughannock falls](https://parks.ny.gov/parks/62/details.aspx)  
+[Treman State Park](https://parks.ny.gov/parks/135/details.aspx)  
