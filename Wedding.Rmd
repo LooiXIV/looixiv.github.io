@@ -6,7 +6,8 @@ output:
     highlight: github
 ---
 
-This site is still currently underconstruction!
+This site is still currently underconstruction! 
+The wedding will be held at the Statler Hotel on July 27th starting at 4:30pm
 
 [Booking Your Stay](WeddingHotels.html)  
 
