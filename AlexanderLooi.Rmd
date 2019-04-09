@@ -1,7 +1,8 @@
 ---
-title: "AlexanderBio"
-author: "Alexander Looi"
-date: "March 18, 2019"
-output: html_document
+title: "Alexander Looi Bio:"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
 ---
 

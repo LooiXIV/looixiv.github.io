@@ -1,6 +1,8 @@
 ---
-title: "JulianneQuinn"
-author: "Alexander Looi"
-date: "March 18, 2019"
-output: html_document
+title: "Julianne Quinn Bio:"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
 ---
+
