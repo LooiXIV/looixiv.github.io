@@ -1,6 +1,10 @@
-
-# Reception Menu
-
+---
+title: "Reception Menu"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
 ## First Course:
 Mixed Green Salad - Mandarin Oranges, Dried Cranberries, Crispy Toasted Shallots, with an Asian Sesame Dressing.
 
@@ -19,4 +23,5 @@ Mixed Green Salad - Mandarin Oranges, Dried Cranberries, Crispy Toasted Shallots
 3. Vegan Cupcakes (Flavors to follow soon!)
 
 If you have any concerns please contact Alex Looi or Julianne Quinn at:
+
 Looixiv@gmail.com or jdq2101@gmail.com
