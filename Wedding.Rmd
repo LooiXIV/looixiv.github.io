@@ -7,7 +7,8 @@ output:
 ---
 
 This site is still currently underconstruction! 
-The wedding will be held at the Statler Hotel on July 27th starting at 4:30pm
+The wedding will be held at the Statler Hotel on July 27th.
+The Ceremony will start at 4:00pm with the reception to follow at 6:00pm
 
 [Booking Your Stay](WeddingHotels.html)  
 
@@ -19,10 +20,10 @@ The wedding will be held at the Statler Hotel on July 27th starting at 4:30pm
 
 [Biography Julianne Quinn](JulianneQuinn.html)
 
-#[RSVP Form](https://docs.google.com/forms/d/e/1FAIpQLSfVKBIurh6tgx1NoQBEIHvTNE2z0WUEf48MGI-Gfik3m6Y6QQ/viewform?usp=sf_link) Each invited person needs to fill out one of these forms or your meal will not be recorded.
+### RSVP with the Link Below
+[RSVP Form](https://docs.google.com/forms/d/1S13c3yF3wbawz_lNevgqXBXb7hh-Z4YXQ2-MwlVjIRM/prefill)
 
 ### To Come!
 
 * Biographies of Julie and Alex
-* Reception Menu
 
