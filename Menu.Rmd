@@ -5,6 +5,9 @@ output:
     theme: leonids
     highlight: github
 ---
+
+[Home](https://looixiv.github.io/Wedding.html)
+
 ## First Course:
 Mixed Green Salad - Mandarin Oranges, Dried Cranberries, Crispy Toasted Shallots, with an Asian Sesame Dressing.
 
@@ -25,3 +28,5 @@ Mixed Green Salad - Mandarin Oranges, Dried Cranberries, Crispy Toasted Shallots
 If you have any concerns please contact Alex Looi or Julianne Quinn at:
 
 Looixiv@gmail.com or jdq2101@gmail.com
+
+[Home](https://looixiv.github.io/Wedding.html)

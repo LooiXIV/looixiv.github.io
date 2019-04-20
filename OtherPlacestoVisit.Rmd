@@ -5,6 +5,8 @@ output:
     theme: leonids
     highlight: github
 ---
+[Home](https://looixiv.github.io/Wedding.html)
+
 ## State Parks
 ### Less than 10 min outside Down town Ithaca
 [Buttermilk Falls](https://parks.ny.gov/parks/151/details.aspx)
@@ -34,3 +36,5 @@ Another Ithaca like town in to the west is [Watkins Glen](https://www.watkinsgle
 Fifteen minutes east of Ithaca is Dryden which has [go kart racing](http://www.ringwoodracewaygokarttrack.com/)!
 
 An hour north of Ithaca is Syracuse home to the Orange Men. But more tastily, the famous [Dinosaur BBQ](https://www.dinosaurbarbque.com/).
+
+[Home](https://looixiv.github.io/Wedding.html)

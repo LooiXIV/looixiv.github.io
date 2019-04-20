@@ -5,6 +5,8 @@ output:
     theme: leonids
     highlight: github
 ---
+[Home](https://looixiv.github.io/Wedding.html)
+
 The wedding will be 4:30 pm at the Statler Ballroom on July 27th.
 
 Unfortunately Statler Hotel is full and we could only reserve a couple rooms for us and our family. Here's a list of a few other nice hotels in the area:  
@@ -43,4 +45,4 @@ Courtyard by Marriot Ithaca ([booking](https://www.reservations.com/hotel/courty
 ### Non-Hotel option
 [AirBnB](https://www.airbnb.com/a/?af=43720035&c=.pi0.pk25650614176_233093750306_c_12026460346&sem_position=1t1&sem_target=aud-428713872427:kwd-12026460346&location_of_interest=&location_physical=9008356&ghost=true&gclid=Cj0KCQiA68bhBRCKARIsABYUGifdcqVpnq1x6DxQWtenkC2irWNERLy18-LV9wllyRkMss5pJkyUVX4aAg16EALw_wcB)
 
-
+[Home](https://looixiv.github.io/Wedding.html)

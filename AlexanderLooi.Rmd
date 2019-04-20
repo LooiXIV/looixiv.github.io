@@ -6,3 +6,4 @@ output:
     highlight: github
 ---
 
+[Home](https://looixiv.github.io/Wedding.html)
