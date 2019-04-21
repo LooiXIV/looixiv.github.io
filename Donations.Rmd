@@ -1,0 +1,50 @@
+---
+title: "Donations Instead of Gifts"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+Instead of gifts we suggest making a donation to one (or more) of these scholarships (or these charities).
+
+# Scholarships:
+
+To Make a donation click the links and follow the instructions below.
+
+1. Find the question "What area of Cornell would you like to support?"
+2. Click that button (a small box with giving options will appear).
+3. Scroll almost all the way to the bottom, to the "Undergraduate Scholarships" section;
+4. Check the box "Other - Undergraduate Scholarships."
+5. Click on "Continue" on the bottom left of the box.
+6. Input the amount that you wish to donate.
+ 
+
+Below that, in the "If you've selected an "Other" option, please specify here:" section, please indicate special instructions as to how the funds are to be distributed.  For example, you may wish to include the name and fund number for each scholarship. 
+
+Example: The Dr. Sau-Tang Cheng and Mrs. Heedae Pi-Mei Cheng scholarship (0015352)
+
+Example: Robert K.M. Looi scholarship fund (0001137)
+
+[Robert K.M. Looi Scholarship fund](https://securelb.imodules.com/s/1717/alumni/index.aspx?sid=1717&gid=2&pgid=3052&cid=7311&CFID=8326842&CFTOKEN=26a8f686f61b80df-736EF6F7-D744-D15C-432E1D049F7A45C5)
+
+(Fund Number: 0001137)
+
+This is a scholarship fund for undergraduates that emphasizes Science and Engineering.
+
+[The Dr. Sau-Tang Cheng and Mrs. Heedae Pi-Mei Cheng scholarship](https://securelb.imodules.com/s/1717/alumni/index.aspx?sid=1717&gid=2&pgid=3052&cid=7311&CFID=8326842&CFTOKEN=26a8f686f61b80df-736EF6F7-D744-D15C-432E1D049F7A45C5) 
+
+(Fund Number: 0015352)
+
+This scholarship gives preference to U.S. Military veterans planning to study computer science, information systems, science and math.
+
+Clare Seow Looi Scholarship fund (Link Coming):
+This is a scholarship fund for undergraduates that emphasizes Science and Engineering.
+
+# Charities:
+
+[Catholic Charities USA](https://www.catholiccharitiesusa.org/)
+
+[American Civil Liberties Union Foundation](https://action.aclu.org/give/make-tax-deductible-gift-aclu-foundation?ms_aff=NAT&initms_aff=NAT&ms=19XXXX_about_dif_fdn&initms=19XXXX_about_dif_fdn&ms_chan=web&initms_chan=web&cid=7014A000001jncjQAA)
+
+[Carter Foundation](https://www.cartercenter.org/)
