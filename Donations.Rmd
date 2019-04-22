@@ -6,7 +6,7 @@ output:
     highlight: github
 ---
 
-Instead of gifts we suggest making a donation to one (or more) of these scholarships (or these charities).
+Instead of gifts we suggest making a donation to one (or more) of these scholarships or charities.
 
 # Scholarships:
 
@@ -42,6 +42,7 @@ Clare Seow Looi Scholarship fund (Link Coming):
 This is a scholarship fund for undergraduates that emphasizes Science and Engineering.
 
 # Charities:
+Please make donations in memory of Matthew and Dorothy Bowe, and Robert J. Quinn.
 
 [Catholic Charities USA](https://www.catholiccharitiesusa.org/)
 
