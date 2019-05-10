@@ -8,7 +8,7 @@ output:
 
 [Home](https://looixiv.github.io/Wedding.html)
 
-![Alex Being Alex](AlexBioPic.jpg)
+![](AlexBioPic.jpg)
 
 Alexander Looi (Alex on the East Coast, Looi on the West Coast) is the son of Mark Looi and Susan Cheng-Looi. He grew up in Issaquah Washington (an eastern suburb of Seattle, famous for the band Modest Mouse!) with his brother Terence Looi. There he spent middle and high school running the damp trails of the Cascade Mountain Range.
 
