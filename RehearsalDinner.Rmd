@@ -1,0 +1,15 @@
+---
+title: "The Rehearsal Dinner"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+If you were invited to the wedding, then you're invited to the rehearsal dinner! The rehearsal dinner will be held at [Sumo Hibachi](https://ithacasumo.com/), Which is located near the Triphammer mall ([google maps location can be found at this link](https://www.google.com/maps/place/Sumo/@42.4744986,-76.5050346,13.5z/data=!3m1!5s0x89d0825dcfec68a1:0x3333a57058124740!4m5!3m4!1s0x89d0825dd760d5a7:0x9ec2d8834e59cbe8!8m2!3d42.4832719!4d-76.4816038)). You can RSVP to the Rehearsal Dinner using the wedding [RSVP form](https://docs.google.com/forms/d/e/1FAIpQLSfVKBIurh6tgx1NoQBEIHvTNE2z0WUEf48MGI-Gfik3m6Y6QQ/viewform?usp=pp_url). There will be three options for food which you can make when you arrive.
+
+* Salmon
+* Chicken
+* Vegetarian
+
+All meals come with a veggie soup, a salad, and rice!
